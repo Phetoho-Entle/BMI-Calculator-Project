@@ -1,5 +1,5 @@
 BMI Calculator (Python)
-About
+
 
 This project is a simple Body Mass Index (BMI) Calculator developed using Python. The application allows users to enter their height and weight and calculates their BMI based on standard health guidelines.
 
